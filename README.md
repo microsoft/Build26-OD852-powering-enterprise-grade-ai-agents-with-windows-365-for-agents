@@ -1,34 +1,3 @@
-# 🚀 Get Started
-
-**This repo is where attendees go to continue their learning after your session — and your Copilot agent will help you set it up.**
-
-### Step 1: Open your repo
-
-Open this repo in a **Codespace** (click the green **Code** button → **Create a Codespace**) — or clone it locally. Then open **GitHub Copilot Chat**.
-
-### Step 2: Add your content
-
-Give the agent something to work with. Drag files into the Explorer panel — session abstracts, outlines, screenshots, notes — and drop them in one of two places:
-
-| Where to put it | What goes there | Who sees it |
-|---|---|---|
-| **`_remove-before-publish/`** | Internal reference materials (abstracts, outlines, screenshots, planning docs) | **Copilot only** — never published |
-| **`/docs/`, `/src/`, or repo root** | Lab instructions, demo code, sample data, getting-started guides | **Attendees** — published with the repo |
-
-> 💡 Not sure? Start by dropping your session abstract or outline into `_remove-before-publish/`. The agent will figure out what to do with it.
-
-### Step 3: Ask the Agent
-
-Once your content is in the repo, use these three phrases with Copilot to build out your session repo:
-
-| Phrase to use with Copilot | What it does | When to run it |
-|---|---|---|
-| **"Help me get started"** | Sets up session title, description, outcomes, and owners | After you've added your session abstract or outline to the repo |
-| **"Help me refine content"** | Organizes your session content into the repo | Each time you add or update content |
-| **"Help me finalize"** | Final review, cleanup, and publication prep | When you're ready to publish |
-
-> 💡 **These three phrases are just the starting point.** Copilot can do much more — try asking it to brainstorm next steps for attendees, generate code samples, or build out your repo structure. Don't be afraid to put it in plan mode and ask for what you need.
-
 ---
 
 <a name="start-building"></a>
@@ -39,37 +8,27 @@ Once your content is in the repo, use these three phrases with Copilot to build 
 
 # [Microsoft Build 2026](https://build.microsoft.com)
 
-## 🔥 BRKXXX: SESSION TITLE
+## 🔥 OD852: Powering enterprise-grade AI agents with Windows 365 for Agents
 
 ### Session Description
 
-*Add Session Description*
+Effective AI agents need GUI automation, legacy apps, or authenticated browser sessions with enterprise-grade security. Windows 365 for Agents meets this challenge by providing Cloud PCs that let AI agents, first or third party, operate inside full and secure computer environments. In this session, we show how to enable agents to complete end-to-end tasks, integrate Windows 365 for Agents with Microsoft Copilot Studio and custom frameworks, and manage Cloud PCs.
 
-### 🏫 Getting started in a guided session
+### 🚀 Getting started
 
-To get started in a guided lab session:
-- <!-- step 1 -->
-- <!-- step 2 -->
-- <!-- step 3 -->
-
-### 🏠 Getting started in your own environment
-
-If you're following these steps at your own pace:
-- Clone this repository
-- Set up your development environment
-- <!-- step 3 -->
+To get started:
+- Explore the [Windows 365 for Agents Playground Agent](https://github.com/microsoft/windows-365-for-agents/tree/main/W365A-Playground-Agent) sample
 
 ### 🧠 Learning Outcomes
 
-By the end of this session, you will be able to:
+By the end of this presentation, you will be able to:
 
-- <!-- outcome 1 -->
-- <!-- outcome 2 -->
-- <!-- outcome 3 -->
+- Integrate an agent with the Windows 365 for Agents MCP server and validate the end-to-end tool flow.
+- Configure a Windows 365 for Agents blueprint in Microsoft Admin Center for enterprise use.
 
 ### 💬 Keep Learning with Copilot
 
-Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in VS Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
+Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in Visual Studio Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
 
 Use these as a starting point — or write your own!
 
@@ -79,14 +38,15 @@ Use these as a starting point — or write your own!
 
 ### 💻 Technologies Used
 
-1. <!-- technology 1 -->
-1. <!-- technology 2 -->
-1. <!-- technology 3 -->
+1. [Windows 365 for Agents](https://learn.microsoft.com/windows-365/agents/introduction-windows-365-for-agents)
+1. [Microsoft Agent 365](https://learn.microsoft.com/microsoft-agent-365/overview)
+1. [Microsoft Intune admin center](https://learn.microsoft.com/intune/fundamentals/tutorial-admin-center-walkthrough)
 
-### 📚 Resources and Next Steps
+### 📚 Related Resources and Next Steps
 
 | Resource | Description |
 |:---------|:------------|
+| [https://github.com/microsoft/Build26-LAB550-build-deploy-and-scale-agents-with-windows-365](https://github.com/microsoft/Build26-LAB550-build-deploy-and-scale-agents-with-windows-365) | Related Build 2026 lab: Build, deploy, and scale agents with Windows 365 |
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
 
 
