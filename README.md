@@ -1,11 +1,3 @@
----
-
-<a name="start-building"></a>
-<br>
-<p align="center">
-<img src="img/banner-build-26.png" alt="Microsoft Build 2026" width="1200"/>
-</p>
-
 # [Microsoft Build 2026](https://build.microsoft.com)
 
 ## 🔥 OD852: Powering enterprise-grade AI agents with Windows 365 for Agents
