@@ -2,7 +2,7 @@
 
 Here are the instructions needed to reproduce the first demo shown in this session: integrating and testing the Windows 365 for Agents MCP Server using a sample agent
 
-**Prerequisites:** Usage of the Windows 365 for Agents playground agent. Follow the instructions provided [here] (https://github.com/microsoft/windows-365-for-agents/tree/main/W365A-Playground-Agent)
+**Prerequisites:** Usage of the Windows 365 for Agents playground agent. Follow the instructions provided [here](https://github.com/microsoft/windows-365-for-agents/tree/main/W365A-Playground-Agent)
 
 ## Understanding the sample agent
 You can find an overview of this agent within the README.md of the sample agent. 
