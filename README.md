@@ -19,16 +19,6 @@ By the end of this presentation, you will be able to:
 - Integrate an agent with the Windows 365 for Agents MCP server and validate the end-to-end tool flow.
 - Configure a Windows 365 for Agents blueprint in Microsoft Admin Center for enterprise use.
 
-### 💬 Keep Learning with Copilot
-
-Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in Visual Studio Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you discover.
-
-Use these as a starting point — or write your own!
-
-<!-- Prompts will be tailored to this session's content during repo setup. -->
-
-> *Prompts coming soon — check back after the session content is finalized.*
-
 ### 💻 Technologies Used
 
 1. [Windows 365 for Agents](https://github.com/microsoft/windows-365-for-agents)
