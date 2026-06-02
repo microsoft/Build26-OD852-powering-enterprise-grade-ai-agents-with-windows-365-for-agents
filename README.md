@@ -6,7 +6,7 @@
 
 Effective AI agents need GUI automation, legacy apps, or authenticated browser sessions with enterprise-grade security. Windows 365 for Agents meets this challenge by providing Cloud PCs that let AI agents, first or third party, operate inside full and secure computer environments. In this session, we show how to enable agents to complete end-to-end tasks, integrate Windows 365 for Agents with Microsoft Copilot Studio and custom frameworks, and manage Cloud PCs.
 
-### 🚀 Getting started
+### 🚀 Getting Started
 
 To get started:
 - Explore the [Windows 365 for Agents Playground Agent](https://github.com/microsoft/windows-365-for-agents/tree/main/W365A-Playground-Agent) sample
