@@ -9,6 +9,7 @@ Effective AI agents need GUI automation, legacy apps, or authenticated browser s
 ### 🚀 Getting Started
 
 To get started:
+- Review the [Windows 365 for Agents](https://github.com/microsoft/windows-365-for-agents) GitHub page
 - Explore the [Windows 365 for Agents Playground Agent](https://github.com/microsoft/windows-365-for-agents/tree/main/W365A-Playground-Agent) sample
 
 ### 🧠 Learning Outcomes
@@ -30,7 +31,7 @@ Use these as a starting point — or write your own!
 
 ### 💻 Technologies Used
 
-1. [Windows 365 for Agents](https://learn.microsoft.com/windows-365/agents/introduction-windows-365-for-agents)
+1. [Windows 365 for Agents](https://github.com/microsoft/windows-365-for-agents)
 1. [Microsoft Agent 365](https://learn.microsoft.com/microsoft-agent-365/overview)
 1. [Microsoft Intune admin center](https://learn.microsoft.com/intune/fundamentals/tutorial-admin-center-walkthrough)
 
