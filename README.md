@@ -27,10 +27,11 @@ By the end of this presentation, you will be able to:
 
 ### 📚 Related Resources and Next Steps
 
-| Resource | Description |
-|:---------|:------------|
-| [https://github.com/microsoft/Build26-LAB550-build-deploy-and-scale-agents-with-windows-365](https://github.com/microsoft/Build26-LAB550-build-deploy-and-scale-agents-with-windows-365) | Related Build lab for hands-on practice with Windows 365-based agent workflows |
-| [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
+| Lab | Title | Repo |
+|:----|:------|:-----|
+| LAB550 | Build, deploy, and scale agents with Windows 365 | [https://github.com/microsoft/Build26-LAB550-build-deploy-and-scale-agents-with-windows-365](https://github.com/microsoft/Build26-LAB550-build-deploy-and-scale-agents-with-windows-365) |
+
+- Next steps: [Explore lab and session repos to further your learning from Microsoft Build](https://aka.ms/build26-next-steps)
 
 
 ### 🌟 Microsoft Learn MCP Server
