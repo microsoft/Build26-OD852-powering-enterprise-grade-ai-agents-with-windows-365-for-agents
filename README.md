@@ -4,7 +4,7 @@
 
 ### Session Description
 
-Effective AI agents need GUI automation, legacy apps, or authenticated browser sessions with enterprise-grade security. Windows 365 for Agents meets this challenge by providing Cloud PCs that let AI agents, first or third party, operate inside full and secure computer environments. In this session, we show how to enable agents to complete end-to-end tasks, integrate Windows 365 for Agents with Microsoft Copilot Studio and custom frameworks, and manage Cloud PCs.
+Effective AI agents need GUI automation, legacy apps, or authenticated browser sessions with enterprise-grade security. Windows 365 for Agents meets this challenge by providing Cloud PCs that let AI agents interact with full Windows environments securely and at scale. In this session, you'll learn how to connect your agent to the Windows 365 for Agents MCP server, provision enterprise-ready blueprints in Microsoft Admin Center, and validate end-to-end automation flows for real-world scenarios.
 
 ### 🚀 Getting Started
 
@@ -21,7 +21,7 @@ By the end of this presentation, you will be able to:
 
 ### 💬 Keep Learning with Copilot
 
-Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in Visual Studio Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you learn. Try connecting the [Microsoft Learn MCP Server](#-microsoft-learn-mcp-server) for the latest official documentation.
+Try these prompts with GitHub Copilot to explore the topics from this session. Open Copilot Chat in Visual Studio Code (`Ctrl+Alt+I` on Windows/Linux, `Cmd+Shift+I` on Mac), paste a prompt, and see what you discover.
 
 Use these as a starting point — or write your own!
 
@@ -39,7 +39,7 @@ Use these as a starting point — or write your own!
 
 | Resource | Description |
 |:---------|:------------|
-| [https://github.com/microsoft/Build26-LAB550-build-deploy-and-scale-agents-with-windows-365](https://github.com/microsoft/Build26-LAB550-build-deploy-and-scale-agents-with-windows-365) | Related Build 2026 lab: Build, deploy, and scale agents with Windows 365 |
+| [https://github.com/microsoft/Build26-LAB550-build-deploy-and-scale-agents-with-windows-365](https://github.com/microsoft/Build26-LAB550-build-deploy-and-scale-agents-with-windows-365) | Related Build lab for hands-on practice with Windows 365-based agent workflows |
 | [https://aka.ms/build26-next-steps](https://aka.ms/build26-next-steps) | Explore lab and session repos to further your learning from Microsoft Build |
 
 
@@ -49,7 +49,7 @@ The Microsoft Learn MCP Server gives your AI agent direct access to Microsoft's 
 
 **VS Code** — One click installation: 
 
-[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Learn_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoft-learn&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Flearn.microsoft.com%2Fapi%2Fmcp%22%7D)
+[![Install in VS Code](https://img.shields.io/badge/VS_Code-Install_Microsoft_Learn_MCP-0098FF?style=flat-square&logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect/mcp/install?name=microsoftdocs.mcp)
 
 
 **GitHub Copilot CLI** — Run this to install the Learn MCP Server as a plugin:
@@ -61,17 +61,12 @@ For more info, other clients, and to post questions, visit the [Learn MCP Server
 
 ## Content Owners
 
-<!-- TODO: Add yourself as a content owner
-1. Change the src in the image tag to {your github url}.png
-2. Change INSERT NAME HERE to your name
-3. Change the github url in the final href to your url. -->
-
 <table>
 <tr>
-    <td align="center"><a href="http://github.com/yourGitHubHandle">
-        <img src="https://github.com/yourGitHubHandle.png" width="100px;" alt="INSERT NAME HERE"/><br />
-        <sub><b>INSERT NAME HERE</b></sub></a><br />
-            <a href="https://github.com/yourGitHubHandle" title="talk">📢</a>
+    <td align="center"><a href="http://github.com/QTran-coding">
+        <img src="https://github.com/QTran-coding.png" width="100px;" alt="QTran-coding"/><br />
+        <sub><b>QTran-coding</b></sub></a><br />
+            <a href="https://github.com/QTran-coding" title="talk">📢</a>
     </td>
 </tr></table>
 
